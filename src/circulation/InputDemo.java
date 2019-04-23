@@ -1,3 +1,5 @@
+package circulation;
+
 import java.util.Scanner;
 
 public class InputDemo {

@@ -1,3 +1,5 @@
+package circulation;
+
 public class Multiplication {
   public static void main(String[] args) {
     // 乘法表

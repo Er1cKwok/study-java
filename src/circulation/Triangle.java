@@ -1,3 +1,5 @@
+package circulation;
+
 public class Triangle {
   public static void main(String[] args) {
     // 5行三角形星星
