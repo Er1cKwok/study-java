@@ -1,0 +1,2 @@
+className=reflect.People
+methodName=show
